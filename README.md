@@ -36,26 +36,24 @@ PROCEDURE:
 
 CIRCUIT DIAGRAMS
 
-Half wave rectifier with filter:![WhatsApp Image 2025-10-22 at 12 07 20_7c201f7b](https://github.com/user-attachments/assets/a297e913-8a3b-47e2-8c8b-7893e8c853f6)
-![WhatsApp Image 2025-10-22 at 12 04 48_1c85b5cb](https://github.com/user-attachments/assets/f1a0deda-60d8-4e63-8b03-22b1764439d4)
+Half wave rectifier with filter:
+![WhatsApp Image 2025-10-22 at 7 25 28 PM](https://github.com/user-attachments/assets/3cd33fb4-91e5-4382-a566-c99c0d6c523f)
+![WhatsApp Image 2025-10-22 at 7 25 29 PM](https://github.com/user-attachments/assets/59be7c67-9376-4ca3-9c84-fd0cc8a33a75)
 
+Bridge rectifier with filter:
+![WhatsApp Image 2025-10-22 at 7 25 29 PM (1)](https://github.com/user-attachments/assets/f27ff569-7120-4c58-8ecb-ed5b9cd9b499)
+![WhatsApp Image 2025-10-22 at 7 25 29 PM (2)](https://github.com/user-attachments/assets/b52a3b07-e104-4be5-aa59-bf391c793020)
 
-Bridge rectifier with filter:![WhatsApp Image 2025-10-22 at 12 08 20_7b078263](https://github.com/user-attachments/assets/8525a6b5-e717-4aa7-ac7d-c75cb0091a06)
-![WhatsApp Image 2025-10-22 at 12 04 47_b0ea5300](https://github.com/user-attachments/assets/84507c00-2a99-4be6-a114-47c646c974a5)
-
-
-TABULAR COLUMN
-Rectifier without filter ![WhatsApp Image 2025-10-22 at 12 09 05_d2a1dafc](https://github.com/user-attachments/assets/77820cc5-5c7f-4854-b0cc-35065043f385)
-
-TABULAR COLUMN
-Rectifier with filter![WhatsApp Image 2025-10-22 at 12 09 15_fce26b6f](https://github.com/user-attachments/assets/bd3ae8db-6889-41f7-a803-0170f1a98357)
-
+TABULAR COLUMN:
+![WhatsApp Image 2025-10-22 at 7 25 30 PM (1)](https://github.com/user-attachments/assets/43b490b1-d3d2-4996-8df8-db4bcf83b906)
+![WhatsApp Image 2025-10-22 at 7 25 30 PM](https://github.com/user-attachments/assets/ad0444c4-a7f5-4014-b13d-f64c52c330ba)
 
 WAVEFORM:
-Halfwave ![WhatsApp Image 2025-10-22 at 12 10 22_6a48012c](https://github.com/user-attachments/assets/4472f471-3e3a-4298-81b8-902f17efab99)
+Halfwave 
+![WhatsApp Image 2025-10-22 at 7 25 30 PM (2)](https://github.com/user-attachments/assets/a8c468e1-4a58-4068-9aee-b49e1245749b)
 
-Fullwave ![WhatsApp Image 2025-10-22 at 12 10 08_490a5961](https://github.com/user-attachments/assets/424fec73-f85f-4055-9b1e-8f027231d2eb)
-
+Fullwave 
+![WhatsApp Image 2025-10-22 at 7 25 31 PM](https://github.com/user-attachments/assets/5f5a7f9f-3572-4d6a-8040-7ac8adb2bd96)
 
 RESULT:
 
